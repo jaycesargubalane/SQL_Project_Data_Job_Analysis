@@ -4,7 +4,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 SQL queries? Check these out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was bord from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
 Data hails from Luke Barousse's [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
@@ -12,7 +12,7 @@ Data hails from Luke Barousse's [SQL Course](https://lukebarousse.com/sql). It's
 
 1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
-3. What skills are most in demand for data analysts?
+3. What skills are most in-demand for data analysts?
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
